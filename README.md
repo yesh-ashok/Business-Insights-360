@@ -21,5 +21,25 @@ This project was a part of the codebasics PowerBI course, Link to the course is 
 ### Questions to Ask Before Starting the Project
 
 #### Business Objectives:
-  - What are the primary goals of this Power BI implementation?
-  - Which business areas (finance, sales, marketing, supply chain) need the most attention?
+- What are the primary goals of this Power BI implementation?
+- Which business areas (finance, sales, marketing, supply chain) need the most attention?
+
+#### Stakeholder Requirements:
+- Who are the key stakeholders, and what specific insights do they need?
+- Are there any existing pain points or data challenges that need addressing?
+
+#### Data Sources:
+- What data sources will be used, and how will data be integrated?
+- Are there any data quality issues that need to be resolved beforehand?
+
+#### Data Security and Compliance:
+- What are the data security and compliance requirements?
+- Who will have access to the reports and dashboards?
+
+#### Technical Specifications:
+- What are the technical requirements for the implementation?
+- What is the current IT infrastructure, and how will Power BI fit into it?
+
+#### Training and Support:
+- What training will be provided to users?
+- What support structures are in place for ongoing maintenance and troubleshooting?
