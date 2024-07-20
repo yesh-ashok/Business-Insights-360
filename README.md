@@ -156,4 +156,10 @@ Before starting the analysis, it is crucial to understand the available data tho
 ## Importing data into PowerBI via MySQL
 
 
+## Data Model 
+-
+-
+-
+-
 
+<img src = "https://github.com/yesh-ashok/Business-Insights-360/blob/main/Data_model_SS.jpg" class="center">
