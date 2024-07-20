@@ -133,7 +133,7 @@ Before starting the analysis, it is crucial to understand the available data tho
                 - Networking
                 - Storage
     
-    - Fact_forecast_monthly:
+    - fact_forecast_monthly:
         - This table is used to forecast customer needs in advance, leading to:
             - Higher customer satisfaction
             - Reduced warehouse storage costs
