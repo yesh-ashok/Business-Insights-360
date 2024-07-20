@@ -101,7 +101,7 @@ Before starting the analysis, it is crucial to understand the available data tho
 
 ### Datasets
 
-#### gdb041:
+#### gdb0041:
     - dim_customer:
         - 27 distinct markets (e.g., India, USA, Spain)
         - 75 distinct customers across these markets
@@ -112,6 +112,7 @@ Before starting the analysis, it is crucial to understand the available data tho
             - Retailer
             - Direct
             - Distributors
+    
     - dim_market:
         - 7 sub-zones
         - 4 regions
@@ -119,15 +120,40 @@ Before starting the analysis, it is crucial to understand the available data tho
             - EU
             - nan
             - LATAM
+    
     - dim_product:
         - Divisions
             - P & A
-              - Peripherals
-              - Accessories
+                - Peripherals
+                - Accessories
             - PC
-              - Notebook
-              - Desktop
+                - Notebook
+                - Desktop
             - N & S
-              - Networking
-              - Storage
-              
+                - Networking
+                - Storage
+    
+    - Fact_forecast_monthly:
+        - This table is used to forecast customer needs in advance, leading to:
+            - Higher customer satisfaction
+            - Reduced warehouse storage costs
+        - The table is denormalized by the data engineering team for analytical purposes.
+        - All dates within the month are represented by the start date of the month.
+        - It includes all relevant columns, with the final column indicating the forecasted quantity needed by the customer.
+
+    - fact_sales_monthly:
+        - This table is similar to the fact_forecast_monthly table.
+        - The final column contains the actual sold quantity instead of the forecasted value.
+
+#### gdb0056:
+
+    - freight_cost: Contains details of travel and other costs associated with each market for the fiscal year.
+    - gross_price: Provides information on gross prices associated with each product code.
+    - manufacturing_cost: Details the manufacturing costs for each product code, including the year of the cost.
+    - pre_invoice_deductions: Shows the pre-invoice deduction percentages for each customer, organized by year.
+    - post_invoice_deductions: Includes details on post-invoice and other deductions.
+    
+
+
+
+
