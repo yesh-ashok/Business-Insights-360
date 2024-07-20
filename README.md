@@ -155,11 +155,39 @@ Before starting the analysis, it is crucial to understand the available data tho
     
 ## Importing data into PowerBI via MySQL
 
+- Since the database for this project is MySQL, we need to import the datasets from the MySQL database into Power BI. This requires providing the necessary database access credentials.
 
 ## Data Model 
--
--
--
--
+- Data modeling is crucial and forms the foundation of the report, as all visuals are built upon the data model.
+- Ineffective data modeling can negatively impact the overall performance of the report.
+- Adhering to best practices in data modeling is essential. For guidance on best practices, refer to this [Blog](https://addendanalytics.com/blog/data-modelling-best-practices).
+- In this project, we have implemented the Snowflake data modeling method.
+
 
 <img src = "https://github.com/yesh-ashok/Business-Insights-360/blob/main/Data_model_SS.jpg" class="center">
+
+## Dashboard Designing
+
+Based on the mock-ups provided as requirements, the team will begin designing the visuals and creating measures as needed.
+
+### Home View
+
+In the Home view, all view buttons will be available. Users can navigate to a specific view page by clicking the corresponding button:
+
+- Info
+- Finance View
+- Sales View
+- Marketing View
+- Supply Chain View
+- Executive View
+- Support
+
+### Overall Dashboard 
+
+
+
+
+
+
+
+
