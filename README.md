@@ -93,3 +93,22 @@ By addressing these areas, AtliQ Hardware can ensure a successful implementation
 - Distributors: Intermediaries who purchase products from manufacturers and sell them to retailers or other businesses. They play a key role in the supply chain by facilitating product distribution.
 - Consumer: The end user who purchases goods or services for personal use. Consumers are the final recipients in the supply chain.
 
+## Understanding the data
+
+Before starting the analysis, it is crucial to understand the available data thoroughly.
+ - Dimension Table: Contains static data such as customer and product details.
+ - Fact Table: Contains transactional data.
+
+### Datasets
+
+#### gdb041:
+    - dim_customer:
+        - **27** distinct markets (e.g., India, USA, Spain)
+        - 75 distinct customers across these markets
+        - 2 types of platforms:
+            - Brick & Mortar - Physical/offline stores
+            - E-commerce - Online stores (e.g., Amazon, Flipkart)
+        - 3 sales channels:
+            - Retailer
+            - Direct
+            - Distributors
