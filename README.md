@@ -18,7 +18,7 @@ This project was a part of the codebasics PowerBI course, Link to the course is 
 
 ## Project Approach
 
-### Questions to Ask Before Starting the Project
+### Questions to Ask Before Starting the Project:
 
 #### Business Objectives:
 - What are the primary goals of this Power BI implementation?
@@ -44,7 +44,7 @@ This project was a part of the codebasics PowerBI course, Link to the course is 
 - What training will be provided to users?
 - What support structures are in place for ongoing maintenance and troubleshooting?
 
-### Key Steps in the Project
+### Key Steps in the Project:
 
 #### Data Preparation and Modeling
 - Creating Calculated Columns: Define new data columns using DAX (Data Analysis Expressions) for enhanced analysis.
