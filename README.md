@@ -183,7 +183,7 @@ In the Home view, all view buttons will be available. Users can navigate to a sp
 - Support
 
 ### Overall Dashboard 
-
+![Overall Report.gif](https://github.com/yesh-ashok/Business-Insights-360/blob/main/BI360_Dash_overview.gif)
 
 
 
