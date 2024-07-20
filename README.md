@@ -20,6 +20,6 @@ This project was a part of the codebasics PowerBI course, Link to the course is 
 
 ### Questions to Ask Before Starting the Project
 
-- Business Objectives:
--- What are the primary goals of this Power BI implementation?
--- Which business areas (finance, sales, marketing, supply chain) need the most attention?
+1. Business Objectives:
+- What are the primary goals of this Power BI implementation?
+- Which business areas (finance, sales, marketing, supply chain) need the most attention?
