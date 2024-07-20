@@ -153,7 +153,7 @@ Before starting the analysis, it is crucial to understand the available data tho
     - pre_invoice_deductions: Shows the pre-invoice deduction percentages for each customer, organized by year.
     - post_invoice_deductions: Includes details on post-invoice and other deductions.
     
-
+## Importing data into PowerBI via MySQL
 
 
 
