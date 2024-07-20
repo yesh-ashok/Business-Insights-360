@@ -185,7 +185,17 @@ In the Home view, all view buttons will be available. Users can navigate to a sp
 ### Overall Dashboard 
 ![Overall Report.gif](https://github.com/yesh-ashok/Business-Insights-360/blob/main/BI360_Dash_overview.gif)
 
+Live dashboard can be accessed by clicking this [link](https://app.powerbi.com/view?r=eyJrIjoiN2ZhOTc5YTUtOGQzZS00ZTYzLTg1YmEtYTA4NGNmYTg1ZTAzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
+## Project Conclusion
+By leveraging this report, you will be able to make informed decisions grounded in data-driven insights. The report provides a comprehensive analysis that helps in understanding various trends, patterns, and anomalies. This allows you to:
+- Make Data-Driven Decisions: The report consolidates relevant data, enabling you to make strategic decisions based on factual evidence rather than intuition or guesswork.
+- Analyze Situations Thoroughly: The detailed breakdown of data will assist in evaluating different scenarios and their outcomes, leading to more accurate and effective decision-making.
+- Answer "Why" Questions: The report’s insights will help address numerous "why" questions related to your business or project. For instance, it can explain why certain trends are occurring, why specific metrics are changing, or why particular outcomes are observed. This deeper understanding is crucial for diagnosing issues, optimizing processes, and planning future strategies.
+- Identify Root Causes: By examining the data, you can uncover the underlying factors contributing to observed results. This helps in identifying root causes of problems or successes, rather than just addressing symptoms.
+- Improve Strategic Planning: The insights derived from the report can inform strategic planning, allowing you to anticipate future challenges and opportunities, and develop strategies that are aligned with actual data.
+
+Overall, this report is a valuable tool for enhancing decision-making capabilities, understanding complex situations, and guiding strategic actions based on a robust analysis of the data.
 
 
 
