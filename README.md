@@ -103,7 +103,7 @@ Before starting the analysis, it is crucial to understand the available data tho
 
 #### gdb041:
     - dim_customer:
-        - **27** distinct markets (e.g., India, USA, Spain)
+        - 27 distinct markets (e.g., India, USA, Spain)
         - 75 distinct customers across these markets
         - 2 types of platforms:
             - Brick & Mortar - Physical/offline stores
@@ -112,3 +112,22 @@ Before starting the analysis, it is crucial to understand the available data tho
             - Retailer
             - Direct
             - Distributors
+    - dim_market:
+        - 7 sub-zones
+        - 4 regions
+            - APAC
+            - EU
+            - nan
+            - LATAM
+    - dim_product:
+        - Divisions
+            - P & A
+              - Peripherals
+              - Accessories
+            - PC
+              - Notebook
+              - Desktop
+            - N & S
+              - Networking
+              - Storage
+              
