@@ -76,5 +76,20 @@ This project was a part of the codebasics PowerBI course, Link to the course is 
 
 By addressing these areas, AtliQ Hardware can ensure a successful implementation of Power BI, providing valuable insights and supporting data-driven decision-making across the organization.
 
+### Business Related Terms
 
+- Gross Price: The total price of a product or service before any deductions such as discounts, rebates, or allowances. It represents the initial selling price.
+- Pre-Invoice Deductions: Reductions applied to the gross price before the invoice is issued. These can include discounts, allowances, and promotional reductions agreed upon before invoicing.
+-Post-Invoice Deductions: Deductions made after the invoice has been issued, such as returns, rebates, or allowances processed after the sale.
+- Net Invoice Sale: The final amount billed to the customer after all pre-invoice and post-invoice deductions have been applied. It represents the actual revenue from the sale.
+- Gross Margin: The difference between net sales and the cost of goods sold (COGS), expressed as a percentage. It measures the profitability of products before accounting for other operating expenses. Formula: (NetSales−COGS)/NetSales
+- Net Sales: The total revenue from sales after deducting returns, allowances, and discounts. It represents the actual revenue earned from sales activities.
+- Net Profit: The final profit after all expenses, including operating expenses, interest, taxes, and other costs, have been deducted from the gross margin. It is the bottom line of the income statement.
+- COGS (Cost of Goods Sold): The direct costs attributable to the production of the goods sold by a company. This includes the cost of materials, labor, and manufacturing overhead used in creating the product.
+- YTD (Year to Date): A period starting from the beginning of the current year to the present date. It is used to measure performance over this timeframe.
+- YTG (Year to Go): The period from the present date to the end of the current year. It is used to project or plan for the remaining part of the year.
+- Direct: Refers to sales made directly to the end consumer without intermediaries. This can include direct sales through company-owned stores or e-commerce sites.
+- Retailer: A business or person that sells goods to the consumer, as opposed to selling to a wholesaler or distributor. Retailers buy products from distributors or manufacturers and sell them at a markup.
+- Distributors: Intermediaries who purchase products from manufacturers and sell them to retailers or other businesses. They play a key role in the supply chain by facilitating product distribution.
+- Consumer: The end user who purchases goods or services for personal use. Consumers are the final recipients in the supply chain.
 
